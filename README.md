@@ -1,2 +1,2 @@
 # milightlib
-Java library to handle the Milight wifi bridge using UDP commands.
+Java library to control the Milight wifi bridge using UDP commands.
